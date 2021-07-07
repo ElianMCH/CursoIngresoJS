@@ -6,7 +6,7 @@ function mostrar()
 	let nombre;
 	let mensaje;
 	nombre = prompt("Ingrese su nombre:");
-	mensaje = "Su nombre es: "
+	mensaje = "Su nombre es: ";
 	alert(mensaje+nombre);
 }
 
