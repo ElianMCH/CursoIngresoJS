@@ -25,7 +25,7 @@ function mostrarAumento()
 
 	document.getElementById("txtIdResultado").value=resultado;
 
-	/*Pa averiguar el descuen o aumento de un valor hay que multiplicar el valor por el 
+	/*Para averiguar el descuento o aumento de un valor hay que multiplicar el valor por el 
 	porcentaje y dividirlo por 100*/
 
 }
