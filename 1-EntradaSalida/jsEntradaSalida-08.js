@@ -22,6 +22,6 @@ function SacarResto()
 
 	alert("El resto es: "+resultado);
 
-	//El signo 5 es para sacar el resto de la divicion.
+	//El signo % es para sacar el resto de la divicion.
 
 }
